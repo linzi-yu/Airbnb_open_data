@@ -1,4 +1,4 @@
-# Airbnb_open_data
+# Airbnb Open Data
 Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way. This project explores the open source airbnb data to find interest insights by following the CRISP-DM Process: Business Understanding, Data Understanding, Prepare Data, Model Data, Results, Deploy. This project is a part of the [data science course by Udacity](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
 
 ## Project Motivation<a name="motivation"></a>
@@ -16,7 +16,7 @@ To get started, check out the `airbnb.ipynb` notebook.
 
 The main findings of the code can be found at the post available [here (now drafting..)](https://medium.com/@liy450/this-datawill-make-you-a-successful-airbnb-host-cf8a5dda7ff6).
 
-## Data Sourse:
+## Data Sourse
 1. [Boston Airbnb Open Data](https://www.kaggle.com/datasets/airbnb/boston)
 2. [Seattle Airbnb Open Data](https://www.kaggle.com/datasets/airbnb/seattle)
 
